@@ -1,0 +1,11 @@
+/home/ela/Desktop/wzorce/ORM/ORM/obj/Debug/netcoreapp2.2/ORM.csprojAssemblyReference.cache
+/home/ela/Desktop/wzorce/ORM/ORM/obj/Debug/netcoreapp2.2/ORM.csproj.CoreCompileInputs.cache
+/home/ela/Desktop/wzorce/ORM/ORM/obj/Debug/netcoreapp2.2/ORM.AssemblyInfoInputs.cache
+/home/ela/Desktop/wzorce/ORM/ORM/obj/Debug/netcoreapp2.2/ORM.AssemblyInfo.cs
+/home/ela/Desktop/wzorce/ORM/ORM/bin/Debug/netcoreapp2.2/ORM.deps.json
+/home/ela/Desktop/wzorce/ORM/ORM/bin/Debug/netcoreapp2.2/ORM.runtimeconfig.json
+/home/ela/Desktop/wzorce/ORM/ORM/bin/Debug/netcoreapp2.2/ORM.runtimeconfig.dev.json
+/home/ela/Desktop/wzorce/ORM/ORM/bin/Debug/netcoreapp2.2/ORM.dll
+/home/ela/Desktop/wzorce/ORM/ORM/bin/Debug/netcoreapp2.2/ORM.pdb
+/home/ela/Desktop/wzorce/ORM/ORM/obj/Debug/netcoreapp2.2/ORM.dll
+/home/ela/Desktop/wzorce/ORM/ORM/obj/Debug/netcoreapp2.2/ORM.pdb
